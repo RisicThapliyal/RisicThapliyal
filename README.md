@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 I'm Currently working on Java Core.<br>
 
