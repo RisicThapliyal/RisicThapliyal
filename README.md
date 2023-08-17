@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working on Java Core.<br>
+I'm Currently working on Core Java.<br>
 
 
 ## 🌐 Socials:
